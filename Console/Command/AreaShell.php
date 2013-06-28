@@ -94,7 +94,6 @@ class AreaShell extends Shell {
         $coordinate = array(floatval($lnglat[0]), floatval($lnglat[1]));
         array_push($coordinatesArray, $coordinate);
       }
-      var_dump($coordinatesArray);
       $saveData['geo'] = array(
       	'type' => 'Polygon',
         'coordinates' => array($coordinatesArray),
