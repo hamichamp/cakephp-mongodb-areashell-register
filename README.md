@@ -25,3 +25,5 @@
     Console/cake area register [xml file]
 
   詳細はQiitaをご参照ください。
+
+  http://qiita.com/hamichamp/items/ac9e80f1078febb9f1b9
