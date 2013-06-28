@@ -6,13 +6,13 @@
 
 ##入手先
 - CakePHP MongoDB Plugin
-  https://github.com/ichikaway/cakephp-mongodb
 
+  https://github.com/ichikaway/cakephp-mongodb
   Pluginフォルダに入れてください。
   設定方法は上記を参照してください。
 
 - htmlSQL
-  https://github.com/hxseven/htmlSQL
 
+  https://github.com/hxseven/htmlSQL
   Vendorフォルダに入れてください。
 
